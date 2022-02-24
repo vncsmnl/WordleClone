@@ -2130,7 +2130,9 @@ function processInput(e) {
     if (!gameOver && row == height) {
         gameOver = true;
         document.getElementById("answer").innerText = word;
-        window.location.reload(false);
+        setTimeout(function () {
+            window.location.reload(false);
+        }, 2000);
     }
 }
 
@@ -2184,7 +2186,9 @@ function update() {
 
         if (correct == width) {
             gameOver = true;
-            window.location.reload(false);
+            setTimeout(function () {
+                window.location.reload(false);
+            }, 2000);
         }
     }
 
