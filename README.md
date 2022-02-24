@@ -22,7 +22,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-* Acesse o site que está na descrição do repositório para jogar, ou clique [aqui]()
+* Acesse o site que está na descrição do repositório para jogar, ou clique [aqui](https://vncsmnl.github.io/WordleClone/)
 
 ## 💾 Clonando o Repositório
 
